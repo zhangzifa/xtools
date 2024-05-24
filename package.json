@@ -1,6 +1,6 @@
 {
   "name": "x-daily-tools",
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "daily tools",
   "main": "index.js",
   "directories": {
